@@ -1,3 +1,3 @@
 !#/bin/bash
 
-Hi this is my new file and move from ec2 to git 
+Hi this is my new file for learing pupose
